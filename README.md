@@ -31,6 +31,9 @@ If you are working on [Google Colab](https://colab.research.google.com/), you ca
   
 - 05/20: String, Lists, Dictionaries, and Control Statements | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day2_control_statements_interators_arrays/day2_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day2_control_statements_interators_arrays/day2_with_answers.ipynb) | [recording of the session](https://sc-edu.zoom.us/rec/share/PGoifaWpk9KszwVC1_9J6pIYbqFeSbsW5Zp1CODG2XiP96Yx1lZLIg6VscUJB44j.wrArOKbQ6VE9p6Rx?startTime=1747748526000) |
 
-- 05/21: NumPy - Scientific Computing | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day3_numpy/day3_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day3_numpy/day3_with_answers.ipynb) |
+- 05/21: NumPy - Scientific Computing | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day3_numpy/day3_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day3_numpy/day3_with_answers.ipynb) | [recording of the session](https://sc-edu.zoom.us/rec/share/6gCL8WdJJEu9S7jpGLK0Gx-puBPe7nS-OlltC4TiealLUWqwT4P48pMK1UaPg6B7.-e7om-SmgcmbYj9B?startTime=1747834997000) |
+
+
+
 - 05/22: Pandas - Data Science | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day4_pandas/day4_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day4_pandas/day4_with_answers.ipynb) |
 - 05/23: Matplotlib and Seaborn - Visualization | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day5_matplotlib_seaborn/day5_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day5_matplotlib_seaborn/day5_with_answers.ipynb) |
