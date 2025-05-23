@@ -35,5 +35,6 @@ If you are working on [Google Colab](https://colab.research.google.com/), you ca
 
 
 
-- 05/22: Pandas - Data Science | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day4_pandas/day4_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day4_pandas/day4_with_answers.ipynb) |
-- 05/23: Matplotlib and Seaborn - Visualization | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day5_matplotlib_seaborn/day5_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day5_matplotlib_seaborn/day5_with_answers.ipynb) |
+- 05/22: Pandas - Data Science | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day4_pandas/day4_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day4_pandas/day4_with_answers.ipynb) | [recording of the session](https://sc-edu.zoom.us/rec/share/8wk3Fs7DiKQRGVavbkiVqD6fjjYku9ZCJgRtWGZVp1TpXur21Vr7zkp3JZqzD3dV.tFIqIUnZ5JnZjcLz?startTime=1747921877000) |
+
+- 05/23: Matplotlib and Seaborn - Visualization | [without answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day5_matplotlib_seaborn/day5_without_answers.ipynb) | [with answers](https://colab.research.google.com/github/lina-usc/scinbre-python-2025/blob/main/Day5_matplotlib_seaborn/day5_with_answers.ipynb) | [recording of the session](https://sc-edu.zoom.us/rec/share/zlBBjb_vUZ4g1FlFoL7orwfpK63AeULVgp-zv06HcpNaksrzbLe8xpBik6ZU3Hal.V1gwcbIJ0fmviv4u?startTime=1748008046000) |
